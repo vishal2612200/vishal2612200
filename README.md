@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 📫 How to reach me: vishalsharma.gbpecdelhi@gmail.com
-- ⚡ Fun fact: Organization I join coincidentally start getting growth 😄
 
 ## Portfolio Website
 
