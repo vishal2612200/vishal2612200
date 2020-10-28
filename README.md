@@ -4,7 +4,7 @@
 
 ### Graduation Year: 2021
 
-<img src="https://github.com/vishal2612200/vishal2612200/blob/master/banner.png" width="100%" height = "600px">
+![vishal readme](https://user-images.githubusercontent.com/37480057/97433840-24c08780-1944-11eb-8acc-fbd6a56bd244.png)
 
 Here are some ideas to get you started:
 
