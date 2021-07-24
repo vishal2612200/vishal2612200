@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning various things according to demands
-- 👯 I’m looking to collaborate with Startups
+- 👯 I’m looking to collaborate with Early Stage/ Seed/ Series-A Funded Startups
+
 <!--
 - 🤔 I’m looking for help with ..
 - 💬 Ask me about ...
