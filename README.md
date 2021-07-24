@@ -2,9 +2,8 @@
 
 ### CSE student, G.B Pant Government Engineering College, New Delhi
 
-### Graduation Year: 2021
+### Graduation Year: July 2021
 
-![vishal readme](https://user-images.githubusercontent.com/37480057/97433840-24c08780-1944-11eb-8acc-fbd6a56bd244.png)
 
 Here are some ideas to get you started:
 
