@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on Django, Nodejs, Reactjs, Vuejs, Posgresql, ElasticSearch, AWS.
 - 🌱 I’m currently learning various things according to demands
 - 👯 I’m looking to collaborate with Early Stage/ Seed/ Series-A Funded Startups
 
