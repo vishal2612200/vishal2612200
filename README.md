@@ -1,5 +1,5 @@
 <h1 align="center">Vishal Sharma</h1>
-<p align="center"><strong>Software Engineer | 3x Founding Engineer | AI Agents, Backend Systems & Client Delivery</strong></p>
+<p align="center"><strong>Software Engineer | Founding Engineer | AI Agents, Backend Systems & Client Delivery</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-sharma-gbpecdelhi/">LinkedIn</a>
   ·
@@ -14,10 +14,12 @@ I build ambiguous 0-to-1 and 0-to-10 products across startups and enterprise tea
 
 Recently: leading backend and AI infrastructure for PadhAI at SigIQ, building autonomous remediation workflows, shipping payments and deployment automation, and turning AI coding agents into repeatable engineering leverage.
 
-## Impact
+## Focus
 
-| `3x` Founding Engineer | `500K+` Users | `10+` Global Clients | `50+` PRs Opened | `33` PRs Merged | `60%` Faster Deploy Cycles |
-| --- | --- | --- | --- | --- | --- |
+- Founding-team execution across startups and new product lines
+- AI-agent workflows and developer tooling
+- Backend, platform, and deployment systems
+- Enterprise and client-facing product delivery
 
 ## What I build
 
@@ -35,10 +37,10 @@ Recently: leading backend and AI infrastructure for PadhAI at SigIQ, building au
   Public developer tooling for local context management and AI coding-agent workflows. Built to make agent-assisted coding sessions faster, cheaper, and more reliable.
 
 - **PadhAI / SigIQ**  
-  Leading backend, AI infrastructure, payments, CI/CD, observability, and deployment automation for a `500K+` user learning product surface.
+  Leading backend, AI infrastructure, payments, CI/CD, observability, and deployment automation for a scaled learning product surface.
 
 - **Prismforce**  
-  Built two 0-to-1 enterprise platforms, including an LMS aggregator and a skill-intelligence engine with Jira-style goal tracking, adopted by `10+` global clients.
+  Built enterprise platforms including an LMS aggregator and a skill-intelligence engine with Jira-style goal tracking for global clients.
 
 ## Stack
 
