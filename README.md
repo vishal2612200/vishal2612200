@@ -106,12 +106,6 @@ Customize if needed:
 **Why it is interesting:** Shows full-stack AI infrastructure depth: streaming chat, token-budgeted context recall, sensitive-data redaction, ingestion workers, DLQ replay, observability dashboards, and deterministic agent-harness telemetry.  
 **Links:** [Repo](https://github.com/vishal2612200/LLMTrace)
 
-### [Portfolio / technical history](https://vishal2612200.github.io/)
-
-**Problem:** A compact public record of earlier work across web development, APIs, BI, ML experiments, and startup/community projects.  
-**Architecture / stack:** Static portfolio, project writeups, older internship and founder work.  
-**Why it is interesting:** Shows long-running builder energy, but should support the current senior/backend/AI-infra story rather than lead it.  
-**Links:** [Portfolio](https://vishal2612200.github.io/) · [GitHub Pages repo](https://github.com/vishal2612200/vishal2612200.github.io)
 
 ## Engineering Philosophy
 
