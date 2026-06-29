@@ -174,12 +174,14 @@ Optional WakaTime card, only if you configure public WakaTime stats:
 </p>
 -->
 
+<!--
 ## Open To
 
 - Senior backend / platform engineering roles
 - AI infrastructure and developer tooling work
 - Founding engineer opportunities
 - Open-source collaboration around AI agents, context engineering, and backend reliability
+-->
 
 ## Contact
 
