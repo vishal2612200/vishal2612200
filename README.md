@@ -39,19 +39,19 @@ engineering_style:
   - practical delivery under ambiguity
 ```
 
-
+<!--
 ## Core Strengths
 
 | Area | Tools and systems |
 | --- | --- |
-| **Languages** | Python, JavaScript/TypeScript, Go, Java, SQL |
+| **Languages** | Python, JavaScript/TypeScript |
 | **Backend / APIs** | Django, Flask, Node.js, REST APIs, microservices, async workers |
 | **Databases / caching** | PostgreSQL, Redis, Elasticsearch, SQL query design, indexing |
 | **Messaging / streaming** | SQS, event-driven workflows, background jobs, WebSocket/SSE systems |
 | **Cloud / DevOps** | AWS ECS, Lambda, S3, CDK, Docker, GitHub Actions, CI/CD, blue-green deployments |
 | **AI / LLM systems** | AI agents, RAG, MCP, context engineering, semantic search, evaluation workflows |
 | **Observability / testing** | CloudWatch, structured debugging, benchmark suites, regression checks, production feedback loops |
-
+-->
 ## Experience Signals
 
 - **Engineering @ SigIQ**: backend, AI infrastructure, payments, CI/CD, observability, and deployment automation for PadhAI product surfaces.
